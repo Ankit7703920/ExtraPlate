@@ -1,0 +1,75 @@
+  "placeholderImages": [
+    {
+      "id": "login-bg",
+      "description": "A vibrant background image for the login screen, showing a community meal.",
+      "imageUrl": "https://images.unsplash.com/photo-1599057579849-8e438ba693de?q=80&w=2070",
+      "imageHint": "community meal"
+    },
+    {
+      "id": "user-1",
+      "description": "Profile picture for user Priya Sharma",
+      "imageUrl": "https://images.unsplash.com/photo-1517256673644-36ad11246d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYzOTU3MDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "user-2",
+      "description": "Profile picture for user Rahul Verma",
+      "imageUrl": "https://images.unsplash.com/photo-1649768453000-07c369a51b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwc21pbGluZ3xlbnwwfHx8fDE3NjM5ODA3NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student smiling"
+    },
+    {
+      "id": "user-3",
+      "description": "Profile picture for user Anjali Mehta",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBoYXBweXxlbnwwfHx8fDE3NjM5Mzg3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person happy"
+    },
+    {
+      "id": "food-1",
+      "description": "Freshly cooked biryani in a large pot",
+      "imageUrl": "https://images.unsplash.com/photo-1752673508949-f4aeeaef75f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiaXJ5YW5pJTIwcG90fGVufDB8fHx8MTc2Mzk3NTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biryani pot"
+    },
+    {
+      "id": "food-2",
+      "description": "Homemade vegetable curry with chapatis",
+      "imageUrl": "https://images.unsplash.com/photo-1577186912275-4f74c57458ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2ZWdldGFibGUlMjBjdXJyeXxlbnwwfHx8fDE3NjQwMDE4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable curry"
+    },
+    {
+      "id": "food-3",
+      "description": "Box of assorted sweets",
+      "imageUrl": "https://images.unsplash.com/photo-1695568181747-f54dff1d4654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbmRpYW4lMjBzd2VldHN8ZW58MHx8fHwxNzY0MDAxODcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian sweets"
+    },
+    {
+      "id": "food-4",
+      "description": "Leftover pizza slices in a box",
+      "imageUrl": "https://images.unsplash.com/photo-1651978595416-f665fd4014ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwaXp6YSUyMGJveHxlbnwwfHx8fDE3NjQwMDE4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza box"
+    },
+    {
+      "id": "food-5",
+      "description": "Steamed idlis with chutney and sambar",
+      "imageUrl": "https://images.unsplash.com/photo-1697355170478-10b3df5fbdd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb3V0aCUyMGluZGlhbnxlbnwwfHx8fDE3NjQwMDE4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "south indian"
+    },
+    {
+      "id": "food-6",
+      "description": "A Tupperware container with pasta salad",
+      "imageUrl": "https://images.unsplash.com/photo-1645296811677-522a5f53e2f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwYXN0YSUyMHNhbGFkfGVufDB8fHx8MTc2MzkzOTU1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta salad"
+    },
+    {
+      "id": "bhandara-1",
+      "description": "A large community gathering for a meal",
+      "imageUrl": "https://images.unsplash.com/photo-1758522488162-e346cb6eb411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb21tdW5pdHklMjBraXRjaGVufGVufDB8fHx8MTc2NDAwMTg3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community kitchen"
+    },
+    {
+      "id": "bhandara-2",
+      "description": "Volunteers serving food at a temple",
+      "imageUrl": "https://images.unsplash.com/photo-1628717341663-0007b0ee2597?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwZGlzdHJpYnV0aW9ufGVufDB8fHx8MTc2MzkwMTQ2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food distribution"
+    }
+  ]
+}
